@@ -1,7 +1,7 @@
 [![MasterHead](https://blogs.sap.com/wp-content/uploads/2018/09/AnimatedChart.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ajesh.M</h1>
 <h3 align="center">A highly organized and working individual looking for a responsible position to gain practical experience</h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 
 - 🌱 I’m currently learning **Data Science & Machine learning**
